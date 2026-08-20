@@ -1,0 +1,9 @@
+Current Data Annotation Quality Control Process
+1. Annotators receive video datasets.
+2. Annotators manually label human actions and object interactions.
+3. Annotators perform temporal and spatial annotations.
+4. Quality reviewers check annotations for errors.
+5. Errors such as tracking failures, camera artifacts and incorrect labels are 
+documented.
+6. Corrected annotations are submitted for machine-learning model training.
+7. The final dataset is validated before being used downstream.

@@ -1,0 +1,56 @@
+Palavalasa Neha
+7801066164 | nehapala23@gmail.com | LinkedIn | GitHub
+Education
+BMS Institute of T echnology and Management Dec 2021 – May 2025
+Bachelor of Engineering in Information Science and Engineering, CGPA: 7.89
+Experience
+Associate Analyst – AI Data Apr 2026 – Jun 2026
+GlobalLogic
+• Built and maintained Python-based data annotation workflows for robotics and foundation-model training datasets,
+using temporal segmentation and semantic labeling of human-action video.
+• Performed structured spatial and kinematic annotation of object manipulation, reaching, repositioning, and
+human-action trajectories to support machine-learning model development and evaluation.
+• Executed dataset quality-control and validation checks for tracking failures, field-of-view issues, and camera artifacts;
+documented errors and improved training-data reliability for downstream AI pipelines.
+System Engineer T rainee Dec 2025 – Mar 2026
+Infosys
+• Developed Java-based backend services and REST APIs using layered architecture and microservices principles.
+• Integrated SQL databases and wrote JUnit tests to validate business logic, API behavior, and application reliability.
+• Participated in Agile SDLC activities including sprint planning, retrospectives, code reviews, debugging, and
+collaborative development.
+Internship
+Software Engineering Intern Mar 2025 – Jun 2025
+RocketGrowth Technologies
+• Developed a real-time AI-powered CCTV monitoring system using Python, YOLOv8, and OpenCV for automated
+worker and inventory detection in warehouse environments.
+• Integrated LLM-powered decision support into a disaster-management dashboard by designing prompt pipelines and
+connecting model outputs with dynamic application components.
+• Implemented QR/barcode recognition, event logging, PostgreSQL persistence, and zone-level tracking; collaborated
+using Agile/Scrum, JIRA, and Confluence.
+Technical Skills
+Programming: Python, Java, JavaScript, SQL
+AI / LLM: LangChain, Groq API, Llama 3.3, OpenAI API, Prompt Engineering, LLM Integration
+ML & Data: TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV, YOLOv8, Matplotlib
+Backend & APIs: FastAPI, Flask, Spring Boot, Node.js, REST APIs, SQLAlchemy, JWT/OAuth
+Databases: PostgreSQL, MySQL, MongoDB, Redis, ChromaDB
+Cloud / DevOps: Docker, Kubernetes, Jenkins, CI/CD, A WS, Git
+W eb: ReactJS, GraphQL, HTML5, CSS3
+Core CS: Data Structures, OOP, Computer Networks, Microservices, Agile, SDLC
+Projects
+AI Ops Assistant – Multi-Agent System| Python, FastAPI, Groq (Llama 3.3), LangChain, REST APIs
+• Architected Planner, Executor, and Verifier agents for LLM-driven task decomposition, tool execution, and response
+validation through a FastAPI REST endpoint.
+• Integrated Groq-hosted Llama 3.3 and designed prompt pipelines for multi-step planning and verification.
+• Built modular integrations with Open-Meteo and GitHub Search APIs for extensible tool-using workflows.
+AI-Powered CCTV Monitoring System| Python, OpenCV, YOLOv8, PyZbar, PostgreSQL, MongoDB
+• Developed real-time worker and inventory tracking with YOLOv8 and QR/barcode recognition; integrated LLM
+decision support for a disaster-management dashboard.
+• Designed modular detection, logging, and analytics layers with PostgreSQL-based zone-level traceability.
+Cloud-Based Modular E-Commerce Platform| ReactJS, Redux, GraphQL, Node.js, Module Federation, A WS
+• Built a scalable micro-frontend e-commerce platform and integrated GraphQL; reduced API response times by 75%
+and improved front-end performance by 89%.
+Certifications
+• Oracle Certified Professional – Oracle Cloud Infrastructure: Generative AI (2024) – Oracle
+• Spark and Python for Big Data with PySpark – Udemy, Jul 2024
+• Java Certified Foundations Associate: Development Basics – Infosys Springboard
+• Python Data Structures and Algorithms – Infosys Springboard

@@ -1,0 +1,45 @@
+Palavalasa Neha
+7801066164 | nehapala23@gmail.com | LinkedIn | GitHub
+Education
+BMS Institute of T echnology and Management Bengaluru
+Bachelor of Engineering in Information Science and Engineering; CGPA: 7.89 Dec 2021 – May 2025
+Experience
+Associate Analyst – Data & AI Engineering Apr 2026 – Jun 2026
+GlobalLogic
+• Conducted structured quality-control audits and documentation, flagging tracking errors, FOV issues, and sensor
+artifacts to ensure dataset integrity for downstream systems.
+• Built Python data pipelines for ingesting/processing large-scale data, applying process analysis and semantic
+labelling standards across a multi-stage validation workflow.
+System Engineer T rainee Dec 2025 – Mar 2026
+Infosys
+• Developed Java-based backend services and RESTful APIs integrating SQL databases; wrote JUnit unit/integration
+tests and supported defect tracking to validate business logic.
+• Participated in full Agile SDLC ceremonies – requirement clarification, sprint planning, retrospectives, and code
+reviews – collaborating with cross-functional teams.
+Internship
+Software Engineering Intern Mar 2025 – Jun 2025
+RocketGrowth Technologies
+• Built a real-time data pipeline (YOLOv8, OpenCV) for automated detection/tracking of workers and inventory,
+testing and validating outputs against ground-truth logs.
+• Automated data-logging workflows with structured event capture to PostgreSQL; followed Agile (Scrum) using
+JIRA/Confluence, coordinating with cross-functional stakeholders on requirements and support documentation.
+Projects
+AI Ops Assistant – Multi-Agent System| Python, FastAPI, LangChain
+• Architected a multi-agent system (Planner, Executor, Verifier) with automated validation, exposed via a FastAPI
+REST endpoint.
+AI-Powered CCTV Monitoring System| Python, OpenCV, YOLOv8, PostgreSQL
+• Developed real-time detection/tracking pipeline; designed PostgreSQL schema for zone-level traceability.
+Technical Skills
+Programming Languages: Python (primary), Java, JavaScript, SQL
+Data & Automation: Automated data pipelines, exploratory data analysis, Pandas, NumPy, statistics, data
+visualization (Matplotlib)
+ML / AI: TensorFlow, Scikit-learn, OpenCV, YOLOv8, LangChain, Groq API, Llama 3.3, OpenAI API
+Backend & Databases: FastAPI, Flask, Spring Boot, RESTful APIs, PostgreSQL, MySQL, MongoDB
+DevOps & Cloud: Docker, Kubernetes, CI/CD, A WS, Git
+Core CS: Data Structures, OOP, Computer Networks, Microservices, Agile, SDLC
+Certifications
+Oracle Certified Professional – Oracle Cloud Infrastructure: Generative AI (2024)
+Spark and Python for Big Data with PySpark – Udemy, Jul 2024
+Java Certified Foundations Associate: Development Basics – Infosys Springboard
+Python Data Structures and Algorithms – Infosys Springboard
+SAP AI Core / Generative AI Hub (BTP) – self-study via openSAP, in progress
